@@ -74,4 +74,4 @@ doc-qa/
 
 - 作者：刘理鑫
 - 求职方向：AI 应用开发工程师
-- 邮箱：LIU705179074@outlook.com
+- 邮箱：CHUIZI705179074@outlook.com
